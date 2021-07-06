@@ -4,4 +4,4 @@ Múltiples ejercicios y apuntes realizados con Javascript (sin ningún framework
 - Arrays y arrays asociativos
 - POO
 - Métodos de registro,conteo,agrupación y temporización
-- DOM
+- DOM: nodos,elementos e hijos
