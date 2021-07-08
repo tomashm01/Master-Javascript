@@ -42,6 +42,3 @@ console.log(hijos)
 for(hijo in hijos){
   console.log(hijo)
 }
-
-
-
