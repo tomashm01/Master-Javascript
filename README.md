@@ -10,3 +10,5 @@ Múltiples ejercicios y apuntes realizados con Javascript (sin ningún framework
 - Location
 - Window
 - Callback,promesas,async/await
+-Peticiones AJAX
+-Librería axios
